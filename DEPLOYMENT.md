@@ -38,8 +38,18 @@ git push -u origin main
 - **Environment**: `Python 3`
 - **Region**: Choose closest to your users
 - **Branch**: `main`
-- **Build Command**: Leave empty (uses build.sh)
-- **Start Command**: Leave empty (uses Procfile)
+- **Build Command**: 
+  ```
+  pip install -r requirements.txt
+  cd process_monitor/backend
+  mkdir -p staticfiles
+  python manage.py collectstatic --noinput
+  python manage.py migrate
+  ```
+- **Start Command**: 
+  ```
+  cd process_monitor/backend && gunicorn process_monitor_backend.wsgi:application --bind 0.0.0.0:$PORT --workers 2 --timeout 120
+  ```
 
 ### 2.3 Environment Variables
 The following environment variables will be automatically set:
