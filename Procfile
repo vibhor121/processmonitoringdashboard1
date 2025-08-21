@@ -1,1 +1,1 @@
-web: cd process_monitor/backend && gunicorn process_monitor_backend.wsgi:application --bind 0.0.0.0:$PORT 
+web: cd process_monitor/backend && gunicorn process_monitor_backend.wsgi:application --bind 0.0.0.0:$PORT --workers 2 --timeout 120 

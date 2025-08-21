@@ -10,6 +10,9 @@ pip install -r requirements.txt
 # Navigate to backend directory
 cd process_monitor/backend
 
+# Create staticfiles directory if it doesn't exist
+mkdir -p staticfiles
+
 # Run database migrations
 echo "🗄️ Running database migrations..."
 python manage.py migrate --noinput

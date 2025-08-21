@@ -4,4 +4,6 @@ psutil>=7.0.0
 requests>=2.32.0
 pyinstaller>=6.15.0
 gunicorn>=21.0.0
-dj-database-url>=2.0.0 
+dj-database-url>=2.0.0
+whitenoise>=6.5.0
+psycopg2-binary>=2.9.0 

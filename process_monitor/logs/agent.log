@@ -1679,3 +1679,203 @@
 2025-08-21 22:38:05,493 - ProcessAgent - INFO - Collected information for 341 processes
 2025-08-21 22:38:06,997 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 341, Snapshot ID: 341
 2025-08-21 22:38:06,998 - ProcessAgent - INFO - Collection cycle completed in 1.67 seconds
+2025-08-21 22:38:35,323 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:38:35,325 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:38:35,485 - ProcessAgent - INFO - Collected information for 340 processes
+2025-08-21 22:38:36,909 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 340, Snapshot ID: 342
+2025-08-21 22:38:36,909 - ProcessAgent - INFO - Collection cycle completed in 1.59 seconds
+2025-08-21 22:39:05,323 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:39:05,324 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:39:05,476 - ProcessAgent - INFO - Collected information for 340 processes
+2025-08-21 22:39:06,906 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 340, Snapshot ID: 343
+2025-08-21 22:39:06,906 - ProcessAgent - INFO - Collection cycle completed in 1.58 seconds
+2025-08-21 22:39:35,323 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:39:35,326 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:39:35,492 - ProcessAgent - INFO - Collected information for 340 processes
+2025-08-21 22:39:37,107 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 340, Snapshot ID: 344
+2025-08-21 22:39:37,107 - ProcessAgent - INFO - Collection cycle completed in 1.78 seconds
+2025-08-21 22:40:05,324 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:40:05,326 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:40:05,482 - ProcessAgent - INFO - Collected information for 340 processes
+2025-08-21 22:40:07,119 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 340, Snapshot ID: 345
+2025-08-21 22:40:07,119 - ProcessAgent - INFO - Collection cycle completed in 1.80 seconds
+2025-08-21 22:40:35,324 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:40:35,325 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:40:35,481 - ProcessAgent - INFO - Collected information for 332 processes
+2025-08-21 22:40:36,980 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 332, Snapshot ID: 346
+2025-08-21 22:40:36,980 - ProcessAgent - INFO - Collection cycle completed in 1.66 seconds
+2025-08-21 22:41:05,324 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:41:05,326 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:41:05,494 - ProcessAgent - INFO - Collected information for 333 processes
+2025-08-21 22:41:07,031 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 333, Snapshot ID: 347
+2025-08-21 22:41:07,031 - ProcessAgent - INFO - Collection cycle completed in 1.71 seconds
+2025-08-21 22:41:35,324 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:41:35,326 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:41:35,496 - ProcessAgent - INFO - Collected information for 333 processes
+2025-08-21 22:41:37,009 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 333, Snapshot ID: 348
+2025-08-21 22:41:37,010 - ProcessAgent - INFO - Collection cycle completed in 1.69 seconds
+2025-08-21 22:42:05,324 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:42:05,326 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:42:05,486 - ProcessAgent - INFO - Collected information for 331 processes
+2025-08-21 22:42:07,329 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 331, Snapshot ID: 349
+2025-08-21 22:42:07,329 - ProcessAgent - INFO - Collection cycle completed in 2.00 seconds
+2025-08-21 22:42:35,324 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:42:35,326 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:42:35,490 - ProcessAgent - INFO - Collected information for 332 processes
+2025-08-21 22:42:37,011 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 332, Snapshot ID: 350
+2025-08-21 22:42:37,012 - ProcessAgent - INFO - Collection cycle completed in 1.69 seconds
+2025-08-21 22:43:05,325 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:43:05,327 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:43:05,487 - ProcessAgent - INFO - Collected information for 332 processes
+2025-08-21 22:43:07,042 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 332, Snapshot ID: 351
+2025-08-21 22:43:07,043 - ProcessAgent - INFO - Collection cycle completed in 1.72 seconds
+2025-08-21 22:43:35,325 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:43:35,326 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:43:35,478 - ProcessAgent - INFO - Collected information for 332 processes
+2025-08-21 22:43:37,051 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 332, Snapshot ID: 352
+2025-08-21 22:43:37,051 - ProcessAgent - INFO - Collection cycle completed in 1.73 seconds
+2025-08-21 22:44:05,325 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:44:05,326 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:44:05,480 - ProcessAgent - INFO - Collected information for 331 processes
+2025-08-21 22:44:07,111 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 331, Snapshot ID: 353
+2025-08-21 22:44:07,112 - ProcessAgent - INFO - Collection cycle completed in 1.79 seconds
+2025-08-21 22:44:35,325 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:44:35,326 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:44:35,478 - ProcessAgent - INFO - Collected information for 331 processes
+2025-08-21 22:44:37,079 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 331, Snapshot ID: 354
+2025-08-21 22:44:37,079 - ProcessAgent - INFO - Collection cycle completed in 1.75 seconds
+2025-08-21 22:45:05,325 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:45:05,328 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:45:05,485 - ProcessAgent - INFO - Collected information for 336 processes
+2025-08-21 22:45:07,060 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 336, Snapshot ID: 355
+2025-08-21 22:45:07,060 - ProcessAgent - INFO - Collection cycle completed in 1.74 seconds
+2025-08-21 22:45:35,325 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:45:35,326 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:45:35,478 - ProcessAgent - INFO - Collected information for 331 processes
+2025-08-21 22:45:37,074 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 331, Snapshot ID: 356
+2025-08-21 22:45:37,074 - ProcessAgent - INFO - Collection cycle completed in 1.75 seconds
+2025-08-21 22:46:05,326 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:46:05,327 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:46:05,484 - ProcessAgent - INFO - Collected information for 332 processes
+2025-08-21 22:46:07,339 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 332, Snapshot ID: 357
+2025-08-21 22:46:07,339 - ProcessAgent - INFO - Collection cycle completed in 2.01 seconds
+2025-08-21 22:46:35,326 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:46:35,327 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:46:35,478 - ProcessAgent - INFO - Collected information for 331 processes
+2025-08-21 22:46:37,004 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 331, Snapshot ID: 358
+2025-08-21 22:46:37,005 - ProcessAgent - INFO - Collection cycle completed in 1.68 seconds
+2025-08-21 22:47:05,326 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:47:05,327 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:47:05,480 - ProcessAgent - INFO - Collected information for 325 processes
+2025-08-21 22:47:07,002 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 325, Snapshot ID: 359
+2025-08-21 22:47:07,003 - ProcessAgent - INFO - Collection cycle completed in 1.68 seconds
+2025-08-21 22:47:35,326 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:47:35,327 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:47:35,482 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-21 22:47:37,032 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 360
+2025-08-21 22:47:37,032 - ProcessAgent - INFO - Collection cycle completed in 1.71 seconds
+2025-08-21 22:48:05,326 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:48:05,328 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:48:05,533 - ProcessAgent - INFO - Collected information for 331 processes
+2025-08-21 22:48:07,342 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 331, Snapshot ID: 361
+2025-08-21 22:48:07,342 - ProcessAgent - INFO - Collection cycle completed in 2.02 seconds
+2025-08-21 22:48:35,326 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:48:35,329 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:48:35,532 - ProcessAgent - INFO - Collected information for 331 processes
+2025-08-21 22:48:37,465 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 331, Snapshot ID: 362
+2025-08-21 22:48:37,465 - ProcessAgent - INFO - Collection cycle completed in 2.14 seconds
+2025-08-21 22:49:05,326 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:49:05,329 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:49:05,558 - ProcessAgent - INFO - Collected information for 336 processes
+2025-08-21 22:49:07,524 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 336, Snapshot ID: 363
+2025-08-21 22:49:07,528 - ProcessAgent - INFO - Collection cycle completed in 2.20 seconds
+2025-08-21 22:49:35,327 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:49:35,330 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:49:35,536 - ProcessAgent - INFO - Collected information for 333 processes
+2025-08-21 22:49:37,561 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 333, Snapshot ID: 364
+2025-08-21 22:49:37,561 - ProcessAgent - INFO - Collection cycle completed in 2.23 seconds
+2025-08-21 22:50:05,327 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:50:05,329 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 22:50:05,544 - ProcessAgent - INFO - Collected information for 332 processes
+2025-08-21 22:50:07,331 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 332, Snapshot ID: 365
+2025-08-21 22:50:07,332 - ProcessAgent - INFO - Collection cycle completed in 2.00 seconds
+2025-08-21 22:50:35,328 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:50:35,332 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:50:35,556 - ProcessAgent - INFO - Collected information for 334 processes
+2025-08-21 22:50:37,483 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 334, Snapshot ID: 366
+2025-08-21 22:50:37,483 - ProcessAgent - INFO - Collection cycle completed in 2.16 seconds
+2025-08-21 22:51:05,328 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:51:05,330 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:51:05,539 - ProcessAgent - INFO - Collected information for 334 processes
+2025-08-21 22:51:07,325 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 334, Snapshot ID: 367
+2025-08-21 22:51:07,325 - ProcessAgent - INFO - Collection cycle completed in 2.00 seconds
+2025-08-21 22:51:35,328 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:51:35,330 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:51:35,540 - ProcessAgent - INFO - Collected information for 333 processes
+2025-08-21 22:51:37,352 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 333, Snapshot ID: 368
+2025-08-21 22:51:37,353 - ProcessAgent - INFO - Collection cycle completed in 2.02 seconds
+2025-08-21 22:52:05,328 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:52:05,331 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:52:05,543 - ProcessAgent - INFO - Collected information for 331 processes
+2025-08-21 22:52:07,332 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 331, Snapshot ID: 369
+2025-08-21 22:52:07,333 - ProcessAgent - INFO - Collection cycle completed in 2.00 seconds
+2025-08-21 22:52:35,329 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:52:35,332 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:52:35,582 - ProcessAgent - INFO - Collected information for 330 processes
+2025-08-21 22:52:37,736 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 330, Snapshot ID: 370
+2025-08-21 22:52:37,737 - ProcessAgent - INFO - Collection cycle completed in 2.41 seconds
+2025-08-21 22:53:05,330 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:53:05,333 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:53:05,573 - ProcessAgent - INFO - Collected information for 325 processes
+2025-08-21 22:53:07,337 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 325, Snapshot ID: 371
+2025-08-21 22:53:07,338 - ProcessAgent - INFO - Collection cycle completed in 2.01 seconds
+2025-08-21 22:53:35,330 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:53:35,333 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:53:35,595 - ProcessAgent - INFO - Collected information for 324 processes
+2025-08-21 22:53:37,361 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 324, Snapshot ID: 372
+2025-08-21 22:53:37,361 - ProcessAgent - INFO - Collection cycle completed in 2.03 seconds
+2025-08-21 22:54:05,330 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:54:05,332 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:54:05,540 - ProcessAgent - INFO - Collected information for 325 processes
+2025-08-21 22:54:07,498 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 325, Snapshot ID: 373
+2025-08-21 22:54:07,499 - ProcessAgent - INFO - Collection cycle completed in 2.17 seconds
+2025-08-21 22:54:35,330 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:54:35,334 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:54:35,592 - ProcessAgent - INFO - Collected information for 325 processes
+2025-08-21 22:54:37,715 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 325, Snapshot ID: 374
+2025-08-21 22:54:37,716 - ProcessAgent - INFO - Collection cycle completed in 2.39 seconds
+2025-08-21 22:55:05,330 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:55:05,335 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:55:05,571 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-21 22:55:07,646 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 375
+2025-08-21 22:55:07,646 - ProcessAgent - INFO - Collection cycle completed in 2.32 seconds
+2025-08-21 22:55:35,331 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:55:35,333 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:55:35,548 - ProcessAgent - INFO - Collected information for 327 processes
+2025-08-21 22:55:37,534 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 327, Snapshot ID: 376
+2025-08-21 22:55:37,534 - ProcessAgent - INFO - Collection cycle completed in 2.20 seconds
+2025-08-21 22:56:05,331 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:56:05,335 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:56:05,577 - ProcessAgent - INFO - Collected information for 328 processes
+2025-08-21 22:56:07,711 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 328, Snapshot ID: 377
+2025-08-21 22:56:07,711 - ProcessAgent - INFO - Collection cycle completed in 2.38 seconds
+2025-08-21 22:56:35,332 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:56:35,335 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:56:35,590 - ProcessAgent - INFO - Collected information for 328 processes
+2025-08-21 22:56:37,428 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 328, Snapshot ID: 378
+2025-08-21 22:56:37,428 - ProcessAgent - INFO - Collection cycle completed in 2.10 seconds
+2025-08-21 22:57:05,332 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:57:05,334 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:57:05,518 - ProcessAgent - INFO - Collected information for 327 processes
+2025-08-21 22:57:07,328 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 327, Snapshot ID: 379
+2025-08-21 22:57:07,328 - ProcessAgent - INFO - Collection cycle completed in 2.00 seconds
+2025-08-21 22:57:35,332 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:57:35,335 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:57:35,547 - ProcessAgent - INFO - Collected information for 327 processes
+2025-08-21 22:57:37,333 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 327, Snapshot ID: 380
+2025-08-21 22:57:37,333 - ProcessAgent - INFO - Collection cycle completed in 2.00 seconds
+2025-08-21 22:58:05,332 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 22:58:05,334 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (172.29.210.3)
+2025-08-21 22:58:05,541 - ProcessAgent - INFO - Collected information for 327 processes
+2025-08-21 22:58:07,354 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 327, Snapshot ID: 381
+2025-08-21 22:58:07,354 - ProcessAgent - INFO - Collection cycle completed in 2.02 seconds

@@ -44,6 +44,12 @@ STATICFILES_DIRS = [
     BASE_DIR / 'static',
 ]
 
+# Add whitenoise for static file serving
+MIDDLEWARE.insert(1, 'whitenoise.middleware.WhiteNoiseMiddleware')
+
+# Configure whitenoise
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
 # Security settings for production
 SECURE_BROWSER_XSS_FILTER = True
 SECURE_CONTENT_TYPE_NOSNIFF = True
