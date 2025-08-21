@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: process-monitor
+    env: python
+    buildCommand: |
+      pip install -r requirements.txt
+      cd process_monitor/backend
+      python manage.py collectstatic --noinput
+      python manage.py migrate
+    startCommand: cd process_monitor/backend && gunicorn process_monitor_backend.wsgi:application --bind 0.0.0.0:$PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: DJANGO_SECRET_KEY
+        generateValue: true
+      - key: DJANGO_DEBUG
+        value: false
+      - key: ALLOWED_HOSTS
+        value: ".onrender.com"
+      - key: DJANGO_SETTINGS_MODULE
+        value: process_monitor_backend.settings_production
+
+databases:
+  - name: process-monitor-db
+    plan: free
