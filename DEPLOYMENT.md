@@ -40,11 +40,7 @@ git push -u origin main
 - **Branch**: `main`
 - **Build Command**: 
   ```
-  pip install -r requirements.txt
-  cd process_monitor/backend
-  mkdir -p staticfiles
-  python manage.py collectstatic --noinput
-  python manage.py migrate
+  chmod +x build.sh && ./build.sh
   ```
 - **Start Command**: 
   ```

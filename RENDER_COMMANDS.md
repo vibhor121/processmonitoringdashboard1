@@ -4,11 +4,7 @@
 
 ### Build Command
 ```
-pip install -r requirements.txt
-cd process_monitor/backend
-mkdir -p staticfiles
-python manage.py collectstatic --noinput
-python manage.py migrate
+chmod +x build.sh && ./build.sh
 ```
 
 ### Start Command
@@ -18,17 +14,19 @@ cd process_monitor/backend && gunicorn process_monitor_backend.wsgi:application 
 
 ## Copy-Paste Instructions
 
-1. **Build Command**: Copy the entire block above (4 lines)
+1. **Build Command**: Copy the single line above
 2. **Start Command**: Copy the single line above
 
 ## What Each Command Does
 
 ### Build Command Breakdown:
-- `pip install -r requirements.txt` - Installs all Python dependencies
-- `cd process_monitor/backend` - Changes to the Django project directory
-- `mkdir -p staticfiles` - Creates static files directory
-- `python manage.py collectstatic --noinput` - Collects all static files
-- `python manage.py migrate` - Runs database migrations
+- `chmod +x build.sh` - Makes the build script executable
+- `&& ./build.sh` - Runs the build script which handles:
+  - Installing Python dependencies
+  - Setting up Django project
+  - Creating static files directory
+  - Running database migrations
+  - Collecting static files
 
 ### Start Command Breakdown:
 - `cd process_monitor/backend` - Changes to Django project directory

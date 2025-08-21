@@ -8,9 +8,11 @@ echo "📦 Installing Python dependencies..."
 pip install -r requirements.txt
 
 # Navigate to backend directory
+echo "📁 Navigating to backend directory..."
 cd process_monitor/backend
 
 # Create staticfiles directory if it doesn't exist
+echo "📁 Creating staticfiles directory..."
 mkdir -p staticfiles
 
 # Run database migrations
