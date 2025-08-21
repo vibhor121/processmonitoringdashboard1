@@ -1,0 +1,15 @@
+{
+    "backend_url": "http://localhost:8000/api/submit/",
+    "api_key": "process-monitor-api-key-2024",
+    "interval": 30,
+    "timeout": 10,
+    "max_retries": 3,
+    "retry_delay": 5,
+    "include_cmdline": true,
+    "exclude_processes": [
+        "[kthreadd]",
+        "[ksoftirqd]",
+        "[migration]"
+    ],
+    "log_level": "INFO"
+}

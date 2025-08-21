@@ -1,0 +1,580 @@
+2025-08-21 16:13:34,869 - ProcessAgent - INFO - Process Agent initialized
+2025-08-21 16:13:34,869 - ProcessAgent - INFO - Backend URL: http://localhost:8000/api/submit/
+2025-08-21 16:13:34,869 - ProcessAgent - INFO - Collection interval: 30 seconds
+2025-08-21 16:13:34,870 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 16:13:34,870 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 16:13:34,879 - ProcessAgent - DEBUG - Collecting CPU usage data...
+2025-08-21 16:13:34,990 - ProcessAgent - DEBUG - Collecting information for 314 processes...
+2025-08-21 16:13:34,991 - ProcessAgent - WARNING - Error getting info for process 1: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,991 - ProcessAgent - WARNING - Error getting info for process 2: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,992 - ProcessAgent - WARNING - Error getting info for process 3: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,992 - ProcessAgent - WARNING - Error getting info for process 4: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,992 - ProcessAgent - WARNING - Error getting info for process 5: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,992 - ProcessAgent - WARNING - Error getting info for process 6: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,993 - ProcessAgent - WARNING - Error getting info for process 7: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,993 - ProcessAgent - WARNING - Error getting info for process 9: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,993 - ProcessAgent - WARNING - Error getting info for process 11: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,993 - ProcessAgent - WARNING - Error getting info for process 12: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,994 - ProcessAgent - WARNING - Error getting info for process 13: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,994 - ProcessAgent - WARNING - Error getting info for process 14: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,994 - ProcessAgent - WARNING - Error getting info for process 15: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,995 - ProcessAgent - WARNING - Error getting info for process 16: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,995 - ProcessAgent - WARNING - Error getting info for process 17: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,995 - ProcessAgent - WARNING - Error getting info for process 18: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,995 - ProcessAgent - WARNING - Error getting info for process 19: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,996 - ProcessAgent - WARNING - Error getting info for process 20: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,996 - ProcessAgent - WARNING - Error getting info for process 21: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,996 - ProcessAgent - WARNING - Error getting info for process 22: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,996 - ProcessAgent - WARNING - Error getting info for process 23: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,997 - ProcessAgent - WARNING - Error getting info for process 24: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,997 - ProcessAgent - WARNING - Error getting info for process 26: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,997 - ProcessAgent - WARNING - Error getting info for process 27: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,997 - ProcessAgent - WARNING - Error getting info for process 28: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,998 - ProcessAgent - WARNING - Error getting info for process 29: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,998 - ProcessAgent - WARNING - Error getting info for process 30: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,998 - ProcessAgent - WARNING - Error getting info for process 32: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,998 - ProcessAgent - WARNING - Error getting info for process 33: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,999 - ProcessAgent - WARNING - Error getting info for process 34: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,999 - ProcessAgent - WARNING - Error getting info for process 35: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,999 - ProcessAgent - WARNING - Error getting info for process 36: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:34,999 - ProcessAgent - WARNING - Error getting info for process 38: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,000 - ProcessAgent - WARNING - Error getting info for process 39: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,000 - ProcessAgent - WARNING - Error getting info for process 40: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,000 - ProcessAgent - WARNING - Error getting info for process 41: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,000 - ProcessAgent - WARNING - Error getting info for process 42: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,001 - ProcessAgent - WARNING - Error getting info for process 44: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,001 - ProcessAgent - WARNING - Error getting info for process 45: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,002 - ProcessAgent - WARNING - Error getting info for process 46: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,002 - ProcessAgent - WARNING - Error getting info for process 47: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,002 - ProcessAgent - WARNING - Error getting info for process 48: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,003 - ProcessAgent - WARNING - Error getting info for process 50: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,003 - ProcessAgent - WARNING - Error getting info for process 51: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,003 - ProcessAgent - WARNING - Error getting info for process 52: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,004 - ProcessAgent - WARNING - Error getting info for process 53: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,004 - ProcessAgent - WARNING - Error getting info for process 54: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,004 - ProcessAgent - WARNING - Error getting info for process 56: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,005 - ProcessAgent - WARNING - Error getting info for process 57: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,006 - ProcessAgent - WARNING - Error getting info for process 58: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,006 - ProcessAgent - WARNING - Error getting info for process 59: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,006 - ProcessAgent - WARNING - Error getting info for process 60: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,007 - ProcessAgent - WARNING - Error getting info for process 62: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,007 - ProcessAgent - WARNING - Error getting info for process 63: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,008 - ProcessAgent - WARNING - Error getting info for process 64: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,008 - ProcessAgent - WARNING - Error getting info for process 65: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,008 - ProcessAgent - WARNING - Error getting info for process 67: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,008 - ProcessAgent - WARNING - Error getting info for process 68: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,009 - ProcessAgent - WARNING - Error getting info for process 70: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,009 - ProcessAgent - WARNING - Error getting info for process 71: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,009 - ProcessAgent - WARNING - Error getting info for process 72: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,010 - ProcessAgent - WARNING - Error getting info for process 74: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,010 - ProcessAgent - WARNING - Error getting info for process 75: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,010 - ProcessAgent - WARNING - Error getting info for process 76: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,010 - ProcessAgent - WARNING - Error getting info for process 77: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,011 - ProcessAgent - WARNING - Error getting info for process 78: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,011 - ProcessAgent - WARNING - Error getting info for process 80: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,011 - ProcessAgent - WARNING - Error getting info for process 81: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,011 - ProcessAgent - WARNING - Error getting info for process 83: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,012 - ProcessAgent - WARNING - Error getting info for process 84: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,012 - ProcessAgent - WARNING - Error getting info for process 85: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,013 - ProcessAgent - WARNING - Error getting info for process 86: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,013 - ProcessAgent - WARNING - Error getting info for process 88: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,013 - ProcessAgent - WARNING - Error getting info for process 90: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,013 - ProcessAgent - WARNING - Error getting info for process 91: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,014 - ProcessAgent - WARNING - Error getting info for process 92: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,014 - ProcessAgent - WARNING - Error getting info for process 93: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,014 - ProcessAgent - WARNING - Error getting info for process 94: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,014 - ProcessAgent - WARNING - Error getting info for process 95: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,015 - ProcessAgent - WARNING - Error getting info for process 98: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,015 - ProcessAgent - WARNING - Error getting info for process 100: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,015 - ProcessAgent - WARNING - Error getting info for process 101: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,015 - ProcessAgent - WARNING - Error getting info for process 102: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,016 - ProcessAgent - WARNING - Error getting info for process 109: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,016 - ProcessAgent - WARNING - Error getting info for process 124: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,016 - ProcessAgent - WARNING - Error getting info for process 147: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,017 - ProcessAgent - WARNING - Error getting info for process 151: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,017 - ProcessAgent - WARNING - Error getting info for process 152: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,017 - ProcessAgent - WARNING - Error getting info for process 168: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,018 - ProcessAgent - WARNING - Error getting info for process 169: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,018 - ProcessAgent - WARNING - Error getting info for process 188: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,019 - ProcessAgent - WARNING - Error getting info for process 189: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,019 - ProcessAgent - WARNING - Error getting info for process 191: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,020 - ProcessAgent - WARNING - Error getting info for process 208: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,020 - ProcessAgent - WARNING - Error getting info for process 209: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,021 - ProcessAgent - WARNING - Error getting info for process 210: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,021 - ProcessAgent - WARNING - Error getting info for process 211: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,022 - ProcessAgent - WARNING - Error getting info for process 212: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,022 - ProcessAgent - WARNING - Error getting info for process 213: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,023 - ProcessAgent - WARNING - Error getting info for process 214: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,023 - ProcessAgent - WARNING - Error getting info for process 231: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,023 - ProcessAgent - WARNING - Error getting info for process 232: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,024 - ProcessAgent - WARNING - Error getting info for process 236: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,024 - ProcessAgent - WARNING - Error getting info for process 273: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,025 - ProcessAgent - WARNING - Error getting info for process 274: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,025 - ProcessAgent - WARNING - Error getting info for process 327: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,025 - ProcessAgent - WARNING - Error getting info for process 363: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,025 - ProcessAgent - WARNING - Error getting info for process 365: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,026 - ProcessAgent - WARNING - Error getting info for process 412: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,026 - ProcessAgent - WARNING - Error getting info for process 461: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,026 - ProcessAgent - WARNING - Error getting info for process 508: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,027 - ProcessAgent - WARNING - Error getting info for process 526: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,027 - ProcessAgent - WARNING - Error getting info for process 529: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,027 - ProcessAgent - WARNING - Error getting info for process 545: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,027 - ProcessAgent - WARNING - Error getting info for process 546: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,028 - ProcessAgent - WARNING - Error getting info for process 547: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,028 - ProcessAgent - WARNING - Error getting info for process 548: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,028 - ProcessAgent - WARNING - Error getting info for process 549: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,028 - ProcessAgent - WARNING - Error getting info for process 551: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,029 - ProcessAgent - WARNING - Error getting info for process 552: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,029 - ProcessAgent - WARNING - Error getting info for process 553: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,029 - ProcessAgent - WARNING - Error getting info for process 554: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,029 - ProcessAgent - WARNING - Error getting info for process 555: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,030 - ProcessAgent - WARNING - Error getting info for process 717: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,030 - ProcessAgent - WARNING - Error getting info for process 725: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,030 - ProcessAgent - WARNING - Error getting info for process 727: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,030 - ProcessAgent - WARNING - Error getting info for process 735: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,031 - ProcessAgent - WARNING - Error getting info for process 741: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,031 - ProcessAgent - WARNING - Error getting info for process 743: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,031 - ProcessAgent - WARNING - Error getting info for process 746: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,031 - ProcessAgent - WARNING - Error getting info for process 747: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,032 - ProcessAgent - WARNING - Error getting info for process 931: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,032 - ProcessAgent - WARNING - Error getting info for process 943: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,032 - ProcessAgent - WARNING - Error getting info for process 945: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,032 - ProcessAgent - WARNING - Error getting info for process 946: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,033 - ProcessAgent - WARNING - Error getting info for process 947: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,033 - ProcessAgent - WARNING - Error getting info for process 948: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,033 - ProcessAgent - WARNING - Error getting info for process 951: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,034 - ProcessAgent - WARNING - Error getting info for process 954: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,034 - ProcessAgent - WARNING - Error getting info for process 955: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,034 - ProcessAgent - WARNING - Error getting info for process 962: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,034 - ProcessAgent - WARNING - Error getting info for process 979: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,035 - ProcessAgent - WARNING - Error getting info for process 980: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,035 - ProcessAgent - WARNING - Error getting info for process 981: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,035 - ProcessAgent - WARNING - Error getting info for process 982: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,035 - ProcessAgent - WARNING - Error getting info for process 983: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,036 - ProcessAgent - WARNING - Error getting info for process 1018: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,036 - ProcessAgent - WARNING - Error getting info for process 1026: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,036 - ProcessAgent - WARNING - Error getting info for process 1032: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,036 - ProcessAgent - WARNING - Error getting info for process 1064: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,037 - ProcessAgent - WARNING - Error getting info for process 1102: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,037 - ProcessAgent - WARNING - Error getting info for process 1106: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,037 - ProcessAgent - WARNING - Error getting info for process 1120: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,038 - ProcessAgent - WARNING - Error getting info for process 1232: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,038 - ProcessAgent - WARNING - Error getting info for process 1238: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,038 - ProcessAgent - WARNING - Error getting info for process 1251: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,038 - ProcessAgent - WARNING - Error getting info for process 1258: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,039 - ProcessAgent - WARNING - Error getting info for process 1266: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,039 - ProcessAgent - WARNING - Error getting info for process 1268: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,039 - ProcessAgent - WARNING - Error getting info for process 1269: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,040 - ProcessAgent - WARNING - Error getting info for process 1285: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,040 - ProcessAgent - WARNING - Error getting info for process 1288: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,040 - ProcessAgent - WARNING - Error getting info for process 1289: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,040 - ProcessAgent - WARNING - Error getting info for process 1290: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,041 - ProcessAgent - WARNING - Error getting info for process 1292: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,041 - ProcessAgent - WARNING - Error getting info for process 1293: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,041 - ProcessAgent - WARNING - Error getting info for process 1301: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,042 - ProcessAgent - WARNING - Error getting info for process 1314: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,042 - ProcessAgent - WARNING - Error getting info for process 1321: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,042 - ProcessAgent - WARNING - Error getting info for process 1327: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,042 - ProcessAgent - WARNING - Error getting info for process 1423: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,043 - ProcessAgent - WARNING - Error getting info for process 1425: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,043 - ProcessAgent - WARNING - Error getting info for process 1440: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,043 - ProcessAgent - WARNING - Error getting info for process 1451: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,043 - ProcessAgent - WARNING - Error getting info for process 1454: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,044 - ProcessAgent - WARNING - Error getting info for process 1463: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,044 - ProcessAgent - WARNING - Error getting info for process 1480: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,044 - ProcessAgent - WARNING - Error getting info for process 1484: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,045 - ProcessAgent - WARNING - Error getting info for process 1491: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,045 - ProcessAgent - WARNING - Error getting info for process 1524: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,045 - ProcessAgent - WARNING - Error getting info for process 1525: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,045 - ProcessAgent - WARNING - Error getting info for process 1538: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,046 - ProcessAgent - WARNING - Error getting info for process 1602: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,046 - ProcessAgent - WARNING - Error getting info for process 1603: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,046 - ProcessAgent - WARNING - Error getting info for process 1650: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,047 - ProcessAgent - WARNING - Error getting info for process 1657: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,047 - ProcessAgent - WARNING - Error getting info for process 1663: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,047 - ProcessAgent - WARNING - Error getting info for process 1683: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,047 - ProcessAgent - WARNING - Error getting info for process 1693: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,048 - ProcessAgent - WARNING - Error getting info for process 1695: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,048 - ProcessAgent - WARNING - Error getting info for process 1696: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,048 - ProcessAgent - WARNING - Error getting info for process 1708: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,048 - ProcessAgent - WARNING - Error getting info for process 1723: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,049 - ProcessAgent - WARNING - Error getting info for process 1726: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,049 - ProcessAgent - WARNING - Error getting info for process 1734: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,049 - ProcessAgent - WARNING - Error getting info for process 1736: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,049 - ProcessAgent - WARNING - Error getting info for process 1737: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,050 - ProcessAgent - WARNING - Error getting info for process 1742: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,050 - ProcessAgent - WARNING - Error getting info for process 1743: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,050 - ProcessAgent - WARNING - Error getting info for process 1749: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,050 - ProcessAgent - WARNING - Error getting info for process 1752: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,051 - ProcessAgent - WARNING - Error getting info for process 1753: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,051 - ProcessAgent - WARNING - Error getting info for process 1756: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,052 - ProcessAgent - WARNING - Error getting info for process 1800: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,052 - ProcessAgent - WARNING - Error getting info for process 1822: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,052 - ProcessAgent - WARNING - Error getting info for process 1868: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,053 - ProcessAgent - WARNING - Error getting info for process 1869: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,053 - ProcessAgent - WARNING - Error getting info for process 1875: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,054 - ProcessAgent - WARNING - Error getting info for process 1880: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,054 - ProcessAgent - WARNING - Error getting info for process 1898: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,054 - ProcessAgent - WARNING - Error getting info for process 1920: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,055 - ProcessAgent - WARNING - Error getting info for process 1928: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,055 - ProcessAgent - WARNING - Error getting info for process 1938: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,055 - ProcessAgent - WARNING - Error getting info for process 1962: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,055 - ProcessAgent - WARNING - Error getting info for process 1969: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,056 - ProcessAgent - WARNING - Error getting info for process 1984: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,056 - ProcessAgent - WARNING - Error getting info for process 1997: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,057 - ProcessAgent - WARNING - Error getting info for process 2004: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,057 - ProcessAgent - WARNING - Error getting info for process 2017: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,058 - ProcessAgent - WARNING - Error getting info for process 2081: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,058 - ProcessAgent - WARNING - Error getting info for process 2131: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,058 - ProcessAgent - WARNING - Error getting info for process 2163: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,058 - ProcessAgent - WARNING - Error getting info for process 2170: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,059 - ProcessAgent - WARNING - Error getting info for process 2183: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,059 - ProcessAgent - WARNING - Error getting info for process 2185: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,059 - ProcessAgent - WARNING - Error getting info for process 2186: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,060 - ProcessAgent - WARNING - Error getting info for process 2203: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,060 - ProcessAgent - WARNING - Error getting info for process 2214: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,060 - ProcessAgent - WARNING - Error getting info for process 2271: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,060 - ProcessAgent - WARNING - Error getting info for process 2297: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,061 - ProcessAgent - WARNING - Error getting info for process 2311: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,061 - ProcessAgent - WARNING - Error getting info for process 2347: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,061 - ProcessAgent - WARNING - Error getting info for process 2353: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,062 - ProcessAgent - WARNING - Error getting info for process 2388: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,062 - ProcessAgent - WARNING - Error getting info for process 2445: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,062 - ProcessAgent - WARNING - Error getting info for process 2480: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,062 - ProcessAgent - WARNING - Error getting info for process 2488: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,063 - ProcessAgent - WARNING - Error getting info for process 2499: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,063 - ProcessAgent - WARNING - Error getting info for process 2835: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,063 - ProcessAgent - WARNING - Error getting info for process 2836: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,063 - ProcessAgent - WARNING - Error getting info for process 2837: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,064 - ProcessAgent - WARNING - Error getting info for process 3360: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,064 - ProcessAgent - WARNING - Error getting info for process 3366: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,064 - ProcessAgent - WARNING - Error getting info for process 3367: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,064 - ProcessAgent - WARNING - Error getting info for process 3369: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,065 - ProcessAgent - WARNING - Error getting info for process 3371: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,065 - ProcessAgent - WARNING - Error getting info for process 3377: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,065 - ProcessAgent - WARNING - Error getting info for process 3378: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,066 - ProcessAgent - WARNING - Error getting info for process 3380: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,066 - ProcessAgent - WARNING - Error getting info for process 3412: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,066 - ProcessAgent - WARNING - Error getting info for process 3418: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,067 - ProcessAgent - WARNING - Error getting info for process 3473: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,067 - ProcessAgent - WARNING - Error getting info for process 3598: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,067 - ProcessAgent - WARNING - Error getting info for process 3609: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,068 - ProcessAgent - WARNING - Error getting info for process 3635: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,068 - ProcessAgent - WARNING - Error getting info for process 3667: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,069 - ProcessAgent - WARNING - Error getting info for process 3669: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,069 - ProcessAgent - WARNING - Error getting info for process 3693: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,069 - ProcessAgent - WARNING - Error getting info for process 3717: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,070 - ProcessAgent - WARNING - Error getting info for process 3783: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,070 - ProcessAgent - WARNING - Error getting info for process 3840: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,070 - ProcessAgent - WARNING - Error getting info for process 3894: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,071 - ProcessAgent - WARNING - Error getting info for process 3944: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,071 - ProcessAgent - WARNING - Error getting info for process 3949: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,071 - ProcessAgent - WARNING - Error getting info for process 3950: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,072 - ProcessAgent - WARNING - Error getting info for process 3980: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,072 - ProcessAgent - WARNING - Error getting info for process 4007: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,072 - ProcessAgent - WARNING - Error getting info for process 4044: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,073 - ProcessAgent - WARNING - Error getting info for process 4070: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,073 - ProcessAgent - WARNING - Error getting info for process 4076: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,074 - ProcessAgent - WARNING - Error getting info for process 4087: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,074 - ProcessAgent - WARNING - Error getting info for process 4088: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,074 - ProcessAgent - WARNING - Error getting info for process 4106: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,075 - ProcessAgent - WARNING - Error getting info for process 4122: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,075 - ProcessAgent - WARNING - Error getting info for process 4127: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,075 - ProcessAgent - WARNING - Error getting info for process 4165: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,076 - ProcessAgent - WARNING - Error getting info for process 4457: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,076 - ProcessAgent - WARNING - Error getting info for process 4479: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,076 - ProcessAgent - WARNING - Error getting info for process 4977: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,076 - ProcessAgent - WARNING - Error getting info for process 5017: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,077 - ProcessAgent - WARNING - Error getting info for process 5035: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,077 - ProcessAgent - WARNING - Error getting info for process 5180: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,077 - ProcessAgent - WARNING - Error getting info for process 5189: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,078 - ProcessAgent - WARNING - Error getting info for process 5462: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,078 - ProcessAgent - WARNING - Error getting info for process 5624: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,078 - ProcessAgent - WARNING - Error getting info for process 5632: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,078 - ProcessAgent - WARNING - Error getting info for process 5702: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,079 - ProcessAgent - WARNING - Error getting info for process 5731: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,079 - ProcessAgent - WARNING - Error getting info for process 5734: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,079 - ProcessAgent - WARNING - Error getting info for process 6123: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,080 - ProcessAgent - WARNING - Error getting info for process 6183: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,080 - ProcessAgent - WARNING - Error getting info for process 6319: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,080 - ProcessAgent - WARNING - Error getting info for process 6323: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,081 - ProcessAgent - WARNING - Error getting info for process 6334: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,081 - ProcessAgent - WARNING - Error getting info for process 6341: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,081 - ProcessAgent - WARNING - Error getting info for process 6352: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,081 - ProcessAgent - WARNING - Error getting info for process 6353: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,082 - ProcessAgent - WARNING - Error getting info for process 6364: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,082 - ProcessAgent - WARNING - Error getting info for process 6385: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,082 - ProcessAgent - WARNING - Error getting info for process 6410: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,083 - ProcessAgent - WARNING - Error getting info for process 6441: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,083 - ProcessAgent - WARNING - Error getting info for process 6442: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,083 - ProcessAgent - WARNING - Error getting info for process 6458: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,084 - ProcessAgent - WARNING - Error getting info for process 6466: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,084 - ProcessAgent - WARNING - Error getting info for process 6501: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,084 - ProcessAgent - WARNING - Error getting info for process 6527: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,085 - ProcessAgent - WARNING - Error getting info for process 6567: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,085 - ProcessAgent - WARNING - Error getting info for process 6585: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,086 - ProcessAgent - WARNING - Error getting info for process 6590: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,086 - ProcessAgent - WARNING - Error getting info for process 6611: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,087 - ProcessAgent - WARNING - Error getting info for process 6679: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,087 - ProcessAgent - WARNING - Error getting info for process 6681: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,087 - ProcessAgent - WARNING - Error getting info for process 6690: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,088 - ProcessAgent - WARNING - Error getting info for process 6878: module 'psutil' has no attribute 'pmem'
+2025-08-21 16:13:35,088 - ProcessAgent - INFO - Collected information for 0 processes
+2025-08-21 16:13:35,088 - ProcessAgent - WARNING - No process data collected
+2025-08-21 16:13:58,789 - ProcessAgent - INFO - Process Agent initialized
+2025-08-21 16:13:58,789 - ProcessAgent - INFO - Backend URL: http://localhost:8000/api/submit/
+2025-08-21 16:13:58,789 - ProcessAgent - INFO - Collection interval: 30 seconds
+2025-08-21 16:13:58,789 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 16:13:58,790 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 16:13:58,798 - ProcessAgent - DEBUG - Collecting CPU usage data...
+2025-08-21 16:13:58,908 - ProcessAgent - DEBUG - Collecting information for 317 processes...
+2025-08-21 16:13:58,995 - ProcessAgent - INFO - Collected information for 317 processes
+2025-08-21 16:13:58,995 - ProcessAgent - DEBUG - Sending data to http://localhost:8000/api/submit/ (attempt 1)
+2025-08-21 16:13:59,000 - ProcessAgent - WARNING - Connection error (attempt 1): HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/submit/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x769dcd82b170>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-08-21 16:13:59,000 - ProcessAgent - INFO - Retrying in 5 seconds...
+2025-08-21 16:14:04,000 - ProcessAgent - DEBUG - Sending data to http://localhost:8000/api/submit/ (attempt 2)
+2025-08-21 16:14:04,005 - ProcessAgent - WARNING - Connection error (attempt 2): HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/submit/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x769dcd82b470>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-08-21 16:14:04,005 - ProcessAgent - INFO - Retrying in 5 seconds...
+2025-08-21 16:14:09,006 - ProcessAgent - DEBUG - Sending data to http://localhost:8000/api/submit/ (attempt 3)
+2025-08-21 16:14:09,010 - ProcessAgent - WARNING - Connection error (attempt 3): HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/submit/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x769dcd82b7d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-08-21 16:14:09,010 - ProcessAgent - ERROR - Failed to send data after 3 attempts
+2025-08-21 16:14:33,959 - ProcessAgent - INFO - Process Agent initialized
+2025-08-21 16:14:33,959 - ProcessAgent - INFO - Backend URL: http://localhost:8000/api/submit/
+2025-08-21 16:14:33,959 - ProcessAgent - INFO - Collection interval: 30 seconds
+2025-08-21 16:14:33,959 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 16:14:33,959 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 16:14:34,168 - ProcessAgent - INFO - Collected information for 315 processes
+2025-08-21 16:14:34,171 - ProcessAgent - WARNING - Connection error (attempt 1): HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/submit/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79173deff710>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-08-21 16:14:34,171 - ProcessAgent - INFO - Retrying in 5 seconds...
+2025-08-21 16:14:39,178 - ProcessAgent - WARNING - Connection error (attempt 2): HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/submit/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79173deffa40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-08-21 16:14:39,179 - ProcessAgent - INFO - Retrying in 5 seconds...
+2025-08-21 16:14:44,183 - ProcessAgent - WARNING - Connection error (attempt 3): HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/submit/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x79173deffda0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-08-21 16:14:44,183 - ProcessAgent - ERROR - Failed to send data after 3 attempts
+2025-08-21 16:15:25,993 - ProcessAgent - INFO - Process Agent initialized
+2025-08-21 16:15:25,993 - ProcessAgent - INFO - Backend URL: http://localhost:8000/api/submit/
+2025-08-21 16:15:25,993 - ProcessAgent - INFO - Collection interval: 30 seconds
+2025-08-21 16:15:25,994 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 16:15:25,994 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 16:15:26,203 - ProcessAgent - INFO - Collected information for 317 processes
+2025-08-21 16:15:26,206 - ProcessAgent - WARNING - Connection error (attempt 1): HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/submit/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x704ccb22b470>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-08-21 16:15:26,206 - ProcessAgent - INFO - Retrying in 5 seconds...
+2025-08-21 16:15:31,210 - ProcessAgent - WARNING - Connection error (attempt 2): HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/submit/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x704ccb22b710>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-08-21 16:15:31,210 - ProcessAgent - INFO - Retrying in 5 seconds...
+2025-08-21 16:15:36,215 - ProcessAgent - WARNING - Connection error (attempt 3): HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/submit/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x704ccb22ba70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-08-21 16:15:36,215 - ProcessAgent - ERROR - Failed to send data after 3 attempts
+2025-08-21 16:19:42,132 - ProcessAgent - INFO - Process Agent initialized
+2025-08-21 16:19:42,133 - ProcessAgent - INFO - Backend URL: http://localhost:8000/api/submit/
+2025-08-21 16:19:42,133 - ProcessAgent - INFO - Collection interval: 30 seconds
+2025-08-21 16:19:42,133 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 16:19:42,133 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 16:19:42,343 - ProcessAgent - INFO - Collected information for 319 processes
+2025-08-21 16:19:43,446 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 319, Snapshot ID: 1
+2025-08-21 16:41:17,040 - ProcessAgent - INFO - Process Agent initialized
+2025-08-21 16:41:17,040 - ProcessAgent - INFO - Backend URL: http://localhost:8000/api/submit/
+2025-08-21 16:41:17,040 - ProcessAgent - INFO - Collection interval: 30 seconds
+2025-08-21 16:41:23,366 - ProcessAgent - INFO - Process Agent initialized
+2025-08-21 16:41:23,366 - ProcessAgent - INFO - Backend URL: http://localhost:8000/api/submit/
+2025-08-21 16:41:23,366 - ProcessAgent - INFO - Collection interval: 30 seconds
+2025-08-21 16:41:23,366 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 16:41:23,368 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 16:41:23,562 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-21 16:41:25,261 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 2
+2025-08-21 18:24:04,578 - ProcessAgent - INFO - Process Agent initialized
+2025-08-21 18:24:04,578 - ProcessAgent - INFO - Backend URL: http://localhost:8000/api/submit/
+2025-08-21 18:24:04,578 - ProcessAgent - INFO - Collection interval: 30 seconds
+2025-08-21 18:24:04,578 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 18:24:04,581 - ProcessAgent - INFO - Host: rayan (192.168.0.101)
+2025-08-21 18:24:04,598 - ProcessAgent - DEBUG - Collecting CPU usage data...
+2025-08-21 18:24:04,722 - ProcessAgent - DEBUG - Collecting information for 381 processes...
+2025-08-21 18:24:04,897 - ProcessAgent - INFO - Collected information for 381 processes
+2025-08-21 18:24:04,898 - ProcessAgent - DEBUG - Sending data to http://localhost:8000/api/submit/ (attempt 1)
+2025-08-21 18:24:05,916 - ProcessAgent - INFO - Successfully sent data - Host: rayan, Processes: 381, Snapshot ID: 3
+2025-08-21 18:27:07,261 - ProcessAgent - INFO - Process Agent initialized
+2025-08-21 18:27:07,261 - ProcessAgent - INFO - Backend URL: http://localhost:8000/api/submit/
+2025-08-21 18:27:07,261 - ProcessAgent - INFO - Collection interval: 30 seconds
+2025-08-21 18:27:07,261 - ProcessAgent - INFO - Starting continuous monitoring...
+2025-08-21 18:27:07,261 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 18:27:07,265 - ProcessAgent - INFO - Host: rayan (192.168.0.101)
+2025-08-21 18:27:07,605 - ProcessAgent - INFO - Collected information for 373 processes
+2025-08-21 18:27:07,612 - ProcessAgent - WARNING - Connection error (attempt 1): HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/submit/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74e193baacf0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-08-21 18:27:07,612 - ProcessAgent - INFO - Retrying in 5 seconds...
+2025-08-21 18:27:12,617 - ProcessAgent - WARNING - Connection error (attempt 2): HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/submit/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74e193bb39d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-08-21 18:27:12,617 - ProcessAgent - INFO - Retrying in 5 seconds...
+2025-08-21 18:27:17,622 - ProcessAgent - WARNING - Connection error (attempt 3): HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/submit/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74e193bb3ed0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-08-21 18:27:17,622 - ProcessAgent - ERROR - Failed to send data after 3 attempts
+2025-08-21 18:27:17,622 - ProcessAgent - INFO - Collection cycle completed in 10.36 seconds
+2025-08-21 18:27:17,622 - ProcessAgent - WARNING - Data collection failed, continuing anyway...
+2025-08-21 18:27:28,311 - ProcessAgent - INFO - Received interrupt signal, shutting down...
+2025-08-21 18:30:46,239 - ProcessAgent - INFO - Process Agent initialized
+2025-08-21 18:30:46,239 - ProcessAgent - INFO - Backend URL: http://localhost:8000/api/submit/
+2025-08-21 18:30:46,239 - ProcessAgent - INFO - Collection interval: 30 seconds
+2025-08-21 18:30:46,239 - ProcessAgent - INFO - Starting continuous monitoring...
+2025-08-21 18:30:46,239 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 18:30:46,242 - ProcessAgent - INFO - Host: rayan (192.168.0.101)
+2025-08-21 18:30:46,510 - ProcessAgent - INFO - Collected information for 379 processes
+2025-08-21 18:30:47,448 - ProcessAgent - INFO - Successfully sent data - Host: rayan, Processes: 379, Snapshot ID: 4
+2025-08-21 18:30:47,448 - ProcessAgent - INFO - Collection cycle completed in 1.21 seconds
+2025-08-21 18:31:16,239 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 18:31:16,241 - ProcessAgent - INFO - Host: rayan (192.168.0.101)
+2025-08-21 18:31:16,500 - ProcessAgent - INFO - Collected information for 379 processes
+2025-08-21 18:31:17,488 - ProcessAgent - INFO - Successfully sent data - Host: rayan, Processes: 379, Snapshot ID: 5
+2025-08-21 18:31:17,488 - ProcessAgent - INFO - Collection cycle completed in 1.25 seconds
+2025-08-21 18:31:46,239 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 18:31:46,242 - ProcessAgent - INFO - Host: rayan (192.168.0.101)
+2025-08-21 18:31:46,491 - ProcessAgent - INFO - Collected information for 381 processes
+2025-08-21 18:31:47,409 - ProcessAgent - INFO - Successfully sent data - Host: rayan, Processes: 381, Snapshot ID: 6
+2025-08-21 18:31:47,409 - ProcessAgent - INFO - Collection cycle completed in 1.17 seconds
+2025-08-21 18:32:16,240 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 18:32:16,242 - ProcessAgent - INFO - Host: rayan (192.168.0.101)
+2025-08-21 18:32:16,492 - ProcessAgent - INFO - Collected information for 382 processes
+2025-08-21 18:32:17,460 - ProcessAgent - INFO - Successfully sent data - Host: rayan, Processes: 382, Snapshot ID: 7
+2025-08-21 18:32:17,461 - ProcessAgent - INFO - Collection cycle completed in 1.22 seconds
+2025-08-21 18:32:46,240 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 18:32:46,242 - ProcessAgent - INFO - Host: rayan (192.168.0.101)
+2025-08-21 18:32:46,490 - ProcessAgent - INFO - Collected information for 384 processes
+2025-08-21 18:32:47,402 - ProcessAgent - INFO - Successfully sent data - Host: rayan, Processes: 384, Snapshot ID: 8
+2025-08-21 18:32:47,402 - ProcessAgent - INFO - Collection cycle completed in 1.16 seconds
+2025-08-21 19:51:04,277 - ProcessAgent - INFO - Process Agent initialized
+2025-08-21 19:51:04,278 - ProcessAgent - INFO - Backend URL: http://localhost:8000/api/submit/
+2025-08-21 19:51:04,278 - ProcessAgent - INFO - Collection interval: 30 seconds
+2025-08-21 19:51:04,278 - ProcessAgent - INFO - Starting continuous monitoring...
+2025-08-21 19:51:04,278 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:51:04,279 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:51:04,445 - ProcessAgent - INFO - Collected information for 324 processes
+2025-08-21 19:51:05,327 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 324, Snapshot ID: 9
+2025-08-21 19:51:05,327 - ProcessAgent - INFO - Collection cycle completed in 1.05 seconds
+2025-08-21 19:51:34,278 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:51:34,279 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:51:34,439 - ProcessAgent - INFO - Collected information for 325 processes
+2025-08-21 19:51:35,326 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 325, Snapshot ID: 10
+2025-08-21 19:51:35,326 - ProcessAgent - INFO - Collection cycle completed in 1.05 seconds
+2025-08-21 19:52:04,278 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:52:04,279 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:52:04,431 - ProcessAgent - INFO - Collected information for 323 processes
+2025-08-21 19:52:05,289 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 323, Snapshot ID: 11
+2025-08-21 19:52:05,289 - ProcessAgent - INFO - Collection cycle completed in 1.01 seconds
+2025-08-21 19:52:34,278 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:52:34,279 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:52:34,435 - ProcessAgent - INFO - Collected information for 328 processes
+2025-08-21 19:52:35,538 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 328, Snapshot ID: 12
+2025-08-21 19:52:35,538 - ProcessAgent - INFO - Collection cycle completed in 1.26 seconds
+2025-08-21 19:53:04,278 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:53:04,279 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:53:04,434 - ProcessAgent - INFO - Collected information for 327 processes
+2025-08-21 19:53:05,731 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 327, Snapshot ID: 13
+2025-08-21 19:53:05,732 - ProcessAgent - INFO - Collection cycle completed in 1.45 seconds
+2025-08-21 19:53:34,279 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:53:34,279 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:53:34,438 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-21 19:53:35,983 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 14
+2025-08-21 19:53:35,983 - ProcessAgent - INFO - Collection cycle completed in 1.70 seconds
+2025-08-21 19:54:04,279 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:54:04,280 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:54:04,435 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-21 19:54:05,949 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 15
+2025-08-21 19:54:05,949 - ProcessAgent - INFO - Collection cycle completed in 1.67 seconds
+2025-08-21 19:54:34,279 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:54:34,282 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:54:34,438 - ProcessAgent - INFO - Collected information for 325 processes
+2025-08-21 19:54:36,031 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 325, Snapshot ID: 16
+2025-08-21 19:54:36,031 - ProcessAgent - INFO - Collection cycle completed in 1.75 seconds
+2025-08-21 19:55:04,279 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:55:04,280 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:55:04,443 - ProcessAgent - INFO - Collected information for 325 processes
+2025-08-21 19:55:06,072 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 325, Snapshot ID: 17
+2025-08-21 19:55:06,073 - ProcessAgent - INFO - Collection cycle completed in 1.79 seconds
+2025-08-21 19:55:34,279 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:55:34,282 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:55:34,443 - ProcessAgent - INFO - Collected information for 323 processes
+2025-08-21 19:55:36,052 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 323, Snapshot ID: 18
+2025-08-21 19:55:36,052 - ProcessAgent - INFO - Collection cycle completed in 1.77 seconds
+2025-08-21 19:56:04,280 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:56:04,280 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:56:04,433 - ProcessAgent - INFO - Collected information for 327 processes
+2025-08-21 19:56:06,019 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 327, Snapshot ID: 19
+2025-08-21 19:56:06,019 - ProcessAgent - INFO - Collection cycle completed in 1.74 seconds
+2025-08-21 19:56:34,280 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:56:34,282 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:56:34,446 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-21 19:56:35,941 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 20
+2025-08-21 19:56:35,941 - ProcessAgent - INFO - Collection cycle completed in 1.66 seconds
+2025-08-21 19:57:04,280 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:57:04,281 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:57:04,434 - ProcessAgent - INFO - Collected information for 325 processes
+2025-08-21 19:57:05,934 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 325, Snapshot ID: 21
+2025-08-21 19:57:05,935 - ProcessAgent - INFO - Collection cycle completed in 1.65 seconds
+2025-08-21 19:57:34,280 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:57:34,282 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:57:34,450 - ProcessAgent - INFO - Collected information for 323 processes
+2025-08-21 19:57:35,942 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 323, Snapshot ID: 22
+2025-08-21 19:57:35,942 - ProcessAgent - INFO - Collection cycle completed in 1.66 seconds
+2025-08-21 19:58:04,280 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:58:04,281 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:58:04,450 - ProcessAgent - INFO - Collected information for 324 processes
+2025-08-21 19:58:05,948 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 324, Snapshot ID: 23
+2025-08-21 19:58:05,948 - ProcessAgent - INFO - Collection cycle completed in 1.67 seconds
+2025-08-21 19:58:34,280 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:58:34,281 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:58:34,429 - ProcessAgent - INFO - Collected information for 323 processes
+2025-08-21 19:58:35,896 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 323, Snapshot ID: 24
+2025-08-21 19:58:35,896 - ProcessAgent - INFO - Collection cycle completed in 1.62 seconds
+2025-08-21 19:59:04,280 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:59:04,281 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:59:04,437 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-21 19:59:05,911 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 25
+2025-08-21 19:59:05,911 - ProcessAgent - INFO - Collection cycle completed in 1.63 seconds
+2025-08-21 19:59:34,281 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 19:59:34,284 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 19:59:34,447 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-21 19:59:35,976 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 26
+2025-08-21 19:59:35,976 - ProcessAgent - INFO - Collection cycle completed in 1.70 seconds
+2025-08-21 20:00:04,281 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 20:00:04,282 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 20:00:04,433 - ProcessAgent - INFO - Collected information for 327 processes
+2025-08-21 20:00:06,011 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 327, Snapshot ID: 27
+2025-08-21 20:00:06,011 - ProcessAgent - INFO - Collection cycle completed in 1.73 seconds
+2025-08-21 20:00:34,281 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 20:00:34,283 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 20:00:34,448 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-21 20:00:35,995 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 28
+2025-08-21 20:00:35,996 - ProcessAgent - INFO - Collection cycle completed in 1.71 seconds
+2025-08-21 20:01:04,281 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 20:01:04,282 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 20:01:04,435 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-21 20:01:06,003 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 29
+2025-08-21 20:01:06,004 - ProcessAgent - INFO - Collection cycle completed in 1.72 seconds
+2025-08-21 20:01:34,281 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 20:01:34,282 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 20:01:34,435 - ProcessAgent - INFO - Collected information for 328 processes
+2025-08-21 20:01:36,056 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 328, Snapshot ID: 30
+2025-08-21 20:01:36,056 - ProcessAgent - INFO - Collection cycle completed in 1.78 seconds
+2025-08-21 20:02:04,281 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 20:02:04,282 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 20:02:04,434 - ProcessAgent - INFO - Collected information for 327 processes
+2025-08-21 20:02:05,951 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 327, Snapshot ID: 31
+2025-08-21 20:02:05,951 - ProcessAgent - INFO - Collection cycle completed in 1.67 seconds
+2025-08-21 20:02:34,282 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 20:02:34,283 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 20:02:34,436 - ProcessAgent - INFO - Collected information for 329 processes
+2025-08-21 20:02:35,930 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 329, Snapshot ID: 32
+2025-08-21 20:02:35,930 - ProcessAgent - INFO - Collection cycle completed in 1.65 seconds
+2025-08-21 20:03:04,282 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 20:03:04,284 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 20:03:04,441 - ProcessAgent - INFO - Collected information for 325 processes
+2025-08-21 20:03:05,899 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 325, Snapshot ID: 33
+2025-08-21 20:03:05,900 - ProcessAgent - INFO - Collection cycle completed in 1.62 seconds
+2025-08-21 20:03:34,282 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 20:03:34,283 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 20:03:34,440 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-21 20:03:35,871 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 34
+2025-08-21 20:03:35,871 - ProcessAgent - INFO - Collection cycle completed in 1.59 seconds
+2025-08-21 20:04:04,282 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 20:04:04,283 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 20:04:04,434 - ProcessAgent - INFO - Collected information for 326 processes
+2025-08-21 20:04:05,840 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 326, Snapshot ID: 35
+2025-08-21 20:04:05,840 - ProcessAgent - INFO - Collection cycle completed in 1.56 seconds
+2025-08-21 20:04:34,282 - ProcessAgent - INFO - Starting data collection...
+2025-08-21 20:04:34,283 - ProcessAgent - INFO - Host: lp334-Latitude-3420 (192.168.1.103)
+2025-08-21 20:04:34,443 - ProcessAgent - INFO - Collected information for 324 processes
+2025-08-21 20:04:35,848 - ProcessAgent - INFO - Successfully sent data - Host: lp334-Latitude-3420, Processes: 324, Snapshot ID: 36
+2025-08-21 20:04:35,849 - ProcessAgent - INFO - Collection cycle completed in 1.57 seconds
